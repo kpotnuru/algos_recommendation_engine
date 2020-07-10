@@ -2,14 +2,14 @@
 
 Discusses some basic algorithms for Recommendation Systems (usecases for selling more on ecommerce or book sites)
 - Content-Based Filtering (no code in the repo)
-- Collaborative Filtering (Nearest Neighbors model, Latent Factor Analysis)
+- Collaborative Filtering (Nearest Neighbors model, Latent Factor Analysis - based on Principal Component Analysis)
 - Association Rules Learning (Apriori Algorithm)
 
 ### Book Crossing Dataset - 
 Link - http://www2.informatik.uni-freiburg.de/~cziegler/BX/
 
 1. `collaborative_filter.py `has code for Nearest K- Neighbors model
-2. `latent_factor.py` has code Latent Factor model (based Principal Component Analysis)
+2. `latent_factor.py` has code Latent Factor model 
 Both models answer the question what are the top N books recommended for the reader on a booksite, 
 what top 10 movies viewer will like to watch on Netflix, etc.
 
