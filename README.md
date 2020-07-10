@@ -10,13 +10,20 @@ Discusses some basic algorithms for Recommendation Systems (usecases for selling
 - Association Rules Learning (Apriori Algorithm) 
   - recommends buyer complementary or associated products one can cross-sell,upsell,substitute etc. For example, you can suggest customer a piece of Cake that goes well along with coffee in the bakery etc.
 
+### Perquisites
+This project is developed using PyCharm CE IDE and tested on Python 3.7 (64 bit). 
+
+You can install prequisites libraries using requirements.txt
+
+From your project repository folder run this command:
+
+`pip install -r requirements.txt` (Python 2), or `pip3 install -r requirements.txt `(Python 3)
+
 ### Book Crossing Dataset - 
 Link - http://www2.informatik.uni-freiburg.de/~cziegler/BX/
 
 1. `collaborative_filter.py ` -  run the python script to observe how Nearest K- Neighbors model works
 2. `latent_factor.py` run this script to execute implementation of Latent Factor model 
-
-
 
 ### Bakery Dataset
 Link - http://wiki.csc.calpoly.edu/datasets/wiki/ExtendedBakery75K
