@@ -5,7 +5,7 @@ Discusses some basic algorithms for Recommendation Systems (usecases for selling
 - Collaborative Filtering 
   -  Nearest Neighbors model
   -  Latent Factor Analysis Model - based on Principal Component Analysis
-  -  Both models answer the question what are the top N books recommended for the reader on a booksite, 
+  -  Both models answer the questions like what are the top N books recommended for the reader on a booksite, 
     what top 10 movies viewer will like to watch on Netflix, etc.
 - Association Rules Learning (Apriori Algorithm) 
   - recommends buyer complementary or associated products one can cross-sell,upsell,substitute etc. For example, you can suggest customer a piece of Cake that goes well along with coffee in the bakery etc.
