@@ -1,6 +1,6 @@
 # Introductory Algorithms for Recommendation Systems
 
-Discusses some basic algorithms for Recommendation Systems (usecases for selling more on ecommerce or book sites)
+Discusses some basic algorithms for Recommendation Systems (usecases for selling more on ecommerce or video streaming sites)
 - Content-Based Filtering (no code in the repo)
 - Collaborative Filtering (Nearest Neighbors model, Latent Factor Analysis - based on Principal Component Analysis)
 - Association Rules Learning (Apriori Algorithm)
