@@ -1,10 +1,11 @@
-#Introductory Algorithms for Recommendation Systems
+# Introductory Algorithms for Recommendation Systems
+
 Discusses some basic algorithms for Recommendation Systems (usecases for selling more on ecommerce or book sites)
 - Content-Based Filtering (no code in the repo)
 - Collaborative Filtering (Nearest Neighbors model, Latent Factor Analysis)
 - Association Rules Learning (Apriori Algorithm)
 
-###Book Crossing Dataset - 
+### Book Crossing Dataset - 
 Link - http://www2.informatik.uni-freiburg.de/~cziegler/BX/
 
 1. `collaborative_filter.py `has code for Nearest K- Neighbors model
