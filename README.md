@@ -1,7 +1,7 @@
 # Introductory Algorithms for Recommendation Systems
 
 Discusses some basic algorithms for Recommendation Systems (usecases for selling more on ecommerce or video streaming sites)
-- Content-Based Filtering (no code in the repo) - This method quite difficult to implement in real world applications.
+- Content-Based Filtering (no code in the repo) - This method is quite difficult to implement in real world applications.
 - Collaborative Filtering - This method is preferred.
   -  Nearest Neighbors model
   -  Latent Factor Analysis Model - based on Principal Component Analysis
@@ -10,7 +10,7 @@ Discusses some basic algorithms for Recommendation Systems (usecases for selling
 - Association Rules Learning (Apriori Algorithm) 
   - recommends buyer complementary or associated products one can cross-sell,upsell,substitute etc. For example, you can suggest customer a piece of Chocolate Cake that goes well with coffee in the bakery.
 
-### Perquisites
+### Prequisites
 This project is developed using PyCharm CE IDE and tested on Python 3.7 (64 bit). 
 
 You can install prequisites libraries using requirements.txt. I exported requirements.txt for ease of installation. These libraries are configured on my machine. All are not needed to run the program.
