@@ -28,7 +28,7 @@ Link - http://www2.informatik.uni-freiburg.de/~cziegler/BX/
 ### Bakery Dataset
 Link - http://wiki.csc.calpoly.edu/datasets/wiki/ExtendedBakery75K
 
-`apriori_association_rule.py` has code to implement Apriori algorithm that calculates support, confidence, lift, item combination rules using trasactions and items to recommend complementary products
+`apriori_association_rule.py` has code to implement Apriori algorithm that calculates support, confidence, lift, item combination rules using transactions and items to recommend complementary products
 
 ### Disclaimer 
 This is not my original code but part of https://app.pluralsight.com/library/courses/algorithms-recommendation-systems.
