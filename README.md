@@ -13,7 +13,7 @@ Discusses some basic algorithms for Recommendation Systems (usecases for selling
 ### Perquisites
 This project is developed using PyCharm CE IDE and tested on Python 3.7 (64 bit). 
 
-You can install prequisites libraries using requirements.txt
+You can install prequisites libraries using requirements.txt. I exported requirements.txt for ease of installation. These libraries are configured on my machine. All are not needed to run the program.
 
 From your project repository folder run this command:
 
