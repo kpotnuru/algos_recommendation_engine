@@ -8,7 +8,7 @@ Discusses some basic algorithms for Recommendation Systems (usecases for selling
   -  Both models answer the questions like what are the top N books recommended for the reader on a booksite, 
     what top 10 movies viewer would like to watch on Netflix, Amazon Prime etc.
 - Association Rules Learning (Apriori Algorithm) 
-  - recommends buyer complementary or associated products one can cross-sell,upsell,substitute etc. For example, you can suggest customer a piece of Cake that goes well along with coffee in the bakery etc.
+  - recommends buyer complementary or associated products one can cross-sell,upsell,substitute etc. For example, you can suggest customer a piece of Chocolate Cake that goes well with coffee in the bakery.
 
 ### Perquisites
 This project is developed using PyCharm CE IDE and tested on Python 3.7 (64 bit). 
