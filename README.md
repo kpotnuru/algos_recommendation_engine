@@ -20,7 +20,7 @@ Link - http://wiki.csc.calpoly.edu/datasets/wiki/ExtendedBakery75K
 can cross-sell,upsell,substitute etc. 
 For example, you can suggest customer a piece of Cake that goes well along with coffee in the bakery etc.
 
-###Disclaimer 
+### Disclaimer 
 This is not my original code but part of https://app.pluralsight.com/library/courses/algorithms-recommendation-systems.
 I just had fun rewriting it (learning by doing) and picking up some python skills/tricks along the way. I suggest this course to anyone who is new to recommendations system and got pluralsight account. 
 Instructor has done a good job.
