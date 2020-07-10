@@ -19,6 +19,9 @@ From your project repository folder run this command:
 
 `pip install -r requirements.txt` (Python 2), or `pip3 install -r requirements.txt `(Python 3)
 
+### Data Files
+Make sure you have unzipped data zip file in respective data folders. You can download same files from below dataset source links.
+
 ### Book Crossing Dataset - 
 Link - http://www2.informatik.uni-freiburg.de/~cziegler/BX/
 
