@@ -1,4 +1,4 @@
-# Introductory Algorithms for Recommendation Systems
+# Introductory Algorithms for Recommendations System
 
 Discusses some basic algorithms for Recommendation Systems (usecases for selling more on ecommerce or video streaming sites)
 - Content-Based Filtering (no code in the repo) - This method is intutive and solution(maths) is easy to understand. But it's quite difficult to collect right data to implement this algo properly with real world applications. In practice, it is not always easy, and sometimes expensive task to identify the right attributes that effect customer purchasing behavior.
