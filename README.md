@@ -4,7 +4,7 @@ Discusses some basic algorithms for Recommendation Systems (usecases for selling
 - Content-Based Filtering (no code in the repo) - This method is quite difficult to implement in real world applications. It is not always easy to find the right attributes that influence customer buying decision.
 - Collaborative Filtering - This method is preferred.
   -  Nearest Neighbors model - Birds of a feather flock together. Users with same tastes and background buy similar type of products.
-  -  Latent Factor Analysis Model - based on Principal Component Analysis
+  -  Latent Factor Analysis Model - based on Principal Component Analysis. This method uses data to find out the features that influence user buying decision. These features can be real indicator of particular quality of product sold, or something abstract.
   -  Both models answer the questions like what are the top N books recommended for the reader on a booksite, 
     what top 10 movies viewer would like to watch on Netflix, Amazon Prime etc.
 - Association Rules Learning (Apriori Algorithm) 
