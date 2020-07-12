@@ -1,7 +1,7 @@
 # Introductory Algorithms for Recommendation Systems
 
 Discusses some basic algorithms for Recommendation Systems (usecases for selling more on ecommerce or video streaming sites)
-- Content-Based Filtering (no code in the repo) - This method is quite difficult to implement in real world applications.
+- Content-Based Filtering (no code in the repo) - This method is quite difficult to implement in real world applications. It is not always easy to find the right attributes that influence customer buying decision.
 - Collaborative Filtering - This method is preferred.
   -  Nearest Neighbors model
   -  Latent Factor Analysis Model - based on Principal Component Analysis
