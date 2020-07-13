@@ -13,7 +13,7 @@ Discusses some basic algorithms for Recommendations System (usecases for selling
 ### Prequisites
 This project is developed using PyCharm CE IDE and tested on Python 3.7 (64 bit). 
 
-You can install prequisites libraries using requirements.txt. I exported requirements.txt for ease of installation. These libraries are configured on my machine. All are not needed to run the program.
+You can install prequisites libraries using requirements.txt. I exported requirements.txt for ease of installation. These libraries are configured on my machine. All are not needed to run the program. Pandas, Scipy and Numpy are some important packages used.
 
 From your project repository folder run this command:
 
